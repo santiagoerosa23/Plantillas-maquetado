@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body{
+font-family: sans-serif;
+background-color: rgb(84, 175, 175);
+  }
+  .busqueda{
+    display: flex;
+    padding-left: 20px;
+    background-color: #79c7d0;
+    height: 35px;
+    align-items: flex-end;
+  }
+  .tab1{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(128, 53, 53);
+    border-radius: 4px 4px 0 0;
+  }
+  .tab2{
+width: 200px;
+height: 25px;
+background-color: rgb(167, 161, 161);
+margin-right: 10px;
+border-radius: 4px 4px 0 0;
+
+
+
+  }
